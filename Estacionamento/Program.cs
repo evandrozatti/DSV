@@ -1,14 +1,28 @@
 ﻿using Estacionamento;
 
-Carro carro1 = new Carro();
-carro1.Placa = "ABC1234";
-carro1.Descricao = "Fiat Argo";
-carro1.CorExterna = Carro.Cor.Branca;
-
-Carro carro2 = new Carro();
-carro2.Placa = "DEF5678";
-carro2.Descricao = "VW Gol";
-carro2.CorExterna = Carro.Cor.Azul;
-
-Carro carro = new("GHIJ9876", "GM Ônix", Carro.Cor.Vermelha, 5);
+/*
+Marca marca = new("FIAT");
+Modelo modelo = new(marca, "Argo");
+Carro carro = new();
+carro.Placa = "ABC1234";
+carro.Modelo = modelo;
+carro.Descricao = "Carro do Evandro";
+carro.CorExterna = Veiculo.Cor.Branca;
 carro.Mostrar();
+*/
+
+Carro carro = new(
+    "ABC1234",
+    new(new("FIAT"), "Argo"),
+    "Carro do Evandro",
+    Veiculo.Cor.Branca,
+    5);
+carro.Mostrar();
+
+Moto moto = new(
+    "DEF5678",
+    new(new("Kawasaki"), "Ninja"),
+    "Moto do Evandro",
+    Veiculo.Cor.Verde,
+    false);
+moto.Mostrar();
