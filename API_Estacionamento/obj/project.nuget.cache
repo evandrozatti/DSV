@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlIykMBmjzej80iNdxBvAb66OBQ0Ve1NLtjlB8HCnTCviWg/0r95Ui3UE2Z74cqCnWpjj2p1RrN5FCnoPcLm6Q==",
+  "success": true,
+  "projectFilePath": "d:\\OneDrive\\Documentos\\Aulas\\Positivo\\Geral\\Desenvolvimento de Software Visual\\Originais\\VSProjects\\Testes\\API_Estacionamento\\API_Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
